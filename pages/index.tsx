@@ -42,8 +42,8 @@ export default function Home() {
             </Text>
           </Heading>
           <Text color={"gray.500"} maxW={"3xl"}>
-            Scan QR codes, using this easy to use web application, to simplify
-            the scanning process
+            Effortlessly scan QR codes with this user-friendly web application, 
+            designed to streamline your attendance tracking
           </Text>
           <Stack spacing={6} direction={"row"}>
             <Button
